@@ -1,2 +1,2 @@
 # EZ-Troll
-This resource puts a troll menu filled with tons of unique features that admins can use against unsuspecting players on their servers.
+This resource puts a feature rich troll menu in the hands of server owners and their staff team.
