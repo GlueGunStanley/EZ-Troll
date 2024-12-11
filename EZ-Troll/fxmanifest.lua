@@ -13,6 +13,7 @@ shared_scripts {
 }
 
 client_scripts {
+    'client/cl_functions.lua',
     'client/cl_menu.lua',
     'client/cl_main.lua'
 }
